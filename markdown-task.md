@@ -17,14 +17,14 @@ Our mission is to:
 **Scientific Name:** Quercus robur
 
 Known for its strength and longevity, the oak is a symbol of endurance.
-<img src="https://treenewal.com/wp-content/uploads/2020/11/oak-tree-care.png" alt="Complete All in One Tree Care Guide for Oak Trees | TreeNewal"/>
+![image of oak tree](https://treenewal.com/wp-content/uploads/2020/11/oak-tree-care.png)
 
 ---
 ### Pine Tree
 **Scientific Name:** *Pinus*
 
 Evergreen and aromatic, pine trees thrive in colder regions.
-<img src="https://www.sciencing.com/sciencing/do-pine-trees-need-survive-6549613/c64512e361624e3d9a21ffc39aed7f5c.jpg" alt="What Do Pine Trees Need To Survive?"/>
+![image of pine tree](https://gardenerspath.com/wp-content/uploads/2023/08/Pine-Tree-Propagation-Feature.jpg)
 
 ---
 ### Tree Identification Tool
